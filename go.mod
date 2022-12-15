@@ -1,4 +1,4 @@
-module github.com/amuluze/logger
+module gitee.com/amuluze/logger
 
 go 1.19
 
